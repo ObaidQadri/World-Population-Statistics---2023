@@ -1,0 +1,1 @@
+The World Population Dataset provides population data for countries over multiple years. This dataset is valuable for analyzing population trends, conducting demographic studies, and understanding global population dynamics.
